@@ -5,6 +5,10 @@
             {
                 "appID": "C9DQ3554N9.airmizAB.Airmee.CustomerStaging",
                 "paths": ["*"]
+            },
+            {
+                "appID": "C9DQ3554N9.airmizAB.Airmee.Customer",
+                "paths": ["*"]
             }
         ]
     }
