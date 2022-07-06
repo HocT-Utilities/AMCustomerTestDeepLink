@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "C9DQ3554N9.airmizAB.Airmee.CustomerStaging",
-                "paths": ["/customer/*", "/customer/*/"]
+                "appID": "777W53UFB2.com.burbn.instagram",
+                "paths": ["*"]
             }
         ]
     }
