@@ -4,7 +4,33 @@
         "details": [
             {
                 "appID": "777W53UFB2.com.burbn.instagram",
-                "paths": ["*"]
+                "paths": [
+                    "/*"
+                ]
+            },
+            {
+                "appID": "MH9GU9K5PX.com.burbn.instagram",
+                "paths": [
+                    "/*"
+                ]
+            },
+            {
+                "appID": "T84QZS65DQID.com.facebook.Instagram",
+                "paths": [
+                    "/*"
+                ]
+            },
+            {
+                "appID": "3NW3KR6Q88.com.facebook.Instagram",
+                "paths": [
+                    "/*"
+                ]
+            },
+            {
+                "appID": "3NW3KR6Q88.com.facebook.InstagramInHouse",
+                "paths": [
+                    "/*"
+                ]
             }
         ]
     }
