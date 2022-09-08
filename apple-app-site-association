@@ -3,6 +3,10 @@
         "apps": [],
         "details": [
             {
+                "appID": "C9DQ3554N9.airmizAB.Airmee.Customer",
+                "paths": ["*"]
+            },
+            {
                 "appID": "C9DQ3554N9.airmizAB.Airmee.CustomerStaging",
                 "paths": ["*"]
             }
